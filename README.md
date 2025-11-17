@@ -1,4 +1,4 @@
-## Contents:
+## *Contents*
 _Lab Assignment 7_:
 
 _Lab Assignment 8_:
